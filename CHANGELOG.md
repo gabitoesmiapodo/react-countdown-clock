@@ -1,5 +1,8 @@
 # Changelog
 
+## 2.5.1
+  * Added maxSeconds property from https://github.com/pughpugh/react-countdown-clock/pull/22 | https://github.com/Zarux/react-countdown-clock
+
 ## 2.5.0
   * Update npm dependencies
 
@@ -20,7 +23,7 @@
 	* Reset timer if seconds change. Thanks @mmajis
 	* Makes div the same size as the countdown clock. Thanks @Miniland1333
 	* Fix old props being assigned rather than new. Thanks @zaidchauhan
-	* Scale canvas for high DPI devices. Thanks @gravitypersists 
+	* Scale canvas for high DPI devices. Thanks @gravitypersists
 
 ## 2.0.0 - Jul 19, 2017
  * Fix deprecation warnings in React 15.6.0. Thanks @AaronKalair
